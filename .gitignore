@@ -1,0 +1,16 @@
+# 忽略高光谱数据集文件夹
+datasets/
+data/
+*.mat
+*.tif
+*.hdr
+
+# 忽略运行产生的大型日志和缓存
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 忽略过大的模型权重（见下方说明）
+# *.pth
+# *.pt

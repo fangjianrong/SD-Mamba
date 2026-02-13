@@ -1,0 +1,7 @@
+# ninja log v5
+1	16404	1770213324569617042	/root/autodl-tmp/CenterMamba/CenterMamba-main/code/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_fwd.o	ab128b8d13b7b948
+0	18827	1770213326998616616	/root/autodl-tmp/CenterMamba/CenterMamba-main/code/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan.o	8e58006ed03a9e5c
+1	52986	1770213361139759022	/root/autodl-tmp/CenterMamba/CenterMamba-main/code/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_bwd.o	8b470bea13f6cf0c
+4	21102	1770213382922912604	/root/autodl-tmp/CenterMamba/CenterMamba-main/code/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	a5782de503ccc770
+4	24374	1770213386183488393	/root/autodl-tmp/CenterMamba/CenterMamba-main/code/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	5b3be05d5e5c208c
+4	87824	1770213449629986502	/root/autodl-tmp/CenterMamba/CenterMamba-main/code/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	1ad15341ad7b1b1
